@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chen-mc9.github.io/chy.github.io/</id>
+    <id>https://terry20071202.github.io</id>
     <title>chy</title>
-    <updated>2020-08-18T01:52:01.718Z</updated>
+    <updated>2020-08-18T05:52:53.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chen-mc9.github.io/chy.github.io/"/>
-    <link rel="self" href="https://chen-mc9.github.io/chy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://terry20071202.github.io"/>
+    <link rel="self" href="https://terry20071202.github.io/atom.xml"/>
     <subtitle>十步一行码，难以不bug</subtitle>
-    <logo>https://chen-mc9.github.io/chy.github.io/images/avatar.png</logo>
-    <icon>https://chen-mc9.github.io/chy.github.io/favicon.ico</icon>
+    <logo>https://terry20071202.github.io/images/avatar.png</logo>
+    <icon>https://terry20071202.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, chy</rights>
     <entry>
         <title type="html"><![CDATA[win10美化自用]]></title>
-        <id>https://chen-mc9.github.io/chy.github.io/post/win10-mei-hua-zi-yong/</id>
-        <link href="https://chen-mc9.github.io/chy.github.io/post/win10-mei-hua-zi-yong/">
+        <id>https://terry20071202.github.io/post/win10-mei-hua-zi-yong/</id>
+        <link href="https://terry20071202.github.io/post/win10-mei-hua-zi-yong/">
         </link>
         <updated>2020-08-18T01:15:14.000Z</updated>
         <content type="html"><![CDATA[<p>win10美化是怎么回事呢，小编也不知道，好了这就是这期xxxxx的内容，再见<br>
@@ -25,7 +25,7 @@ fences桌面分类<br>
 嗯<br>
 就这😀<br>
 顺便附上我的截图<br>
-<img src="https://chen-mc9.github.io/chy.github.io//post-images/1597713830792.png" alt="" loading="lazy"></p>
+<img src="https://terry20071202.github.io/post-images/1597713830792.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
